@@ -66,11 +66,6 @@
       "version": "0.0.2"
     },
     {
-      "name": "小芸音乐",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoyun.js",
-      "version": "0.0.2"
-    },
-    {
       "name": "小蜗音乐",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaowo.js",
       "version": "0.0.2"
